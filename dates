@@ -1,0 +1,61 @@
+January 6th
+January 20th
+February 3rd
+February 17th
+March 17th
+March 24th 
+April 7th
+April 21-23 Mike Topel Weekend 
+May 5th
+May 12th
+June 9th
+June 23rd
+July 21
+August 4th
+August 18th
+September 8th
+September 22nd
+October 6th
+October 20th
+November 3-5 Mike Topel Weekend
+November 17th December 8th
+
+
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <tbody>
+                <tr>
+                    <td><strong><em>May</em></strong></td>
+                    <td>13<sup>th</sup> & 27<sup>th</sup></td>
+                </tr>
+                <tr>
+                    <td><strong><em>June</em></strong></td>
+                    <td>3<sup>rd</sup> & 17<sup>th</sup></td>
+                </tr>
+                <tr>
+                    <td><strong><em>July</em></strong></td>
+                    <td>29<sup>th</sup></td>
+                </tr>
+				<tr>
+					<td><strong><em>August</em></strong></td>
+					<td>12<sup>th</sup> & 19<sup>th</sup></td>
+				</tr>
+                <tr>
+                    <td><strong><em>September</em></strong></td>
+                    <td>16<sup>th</sup> & 30<sup>th</sup></td>
+                </tr>
+				<tr>
+					<td><strong><em>October</em></strong></td>
+					<td>14<sup>th</sup> & 28<sup>th</sup></td>
+				</tr>
+				<tr>
+					<td><strong><em>November</em></strong></td>
+					<td>4<sup>th</sup> & 18<sup>th</sup>/19<sup>th</sup>(Mike Topel)</td>
+				</tr>
+				<tr>
+					<td><strong><em>December</em></strong></td>
+					<td>9<sup>th</sup></td>
+				</tr>
+                </tbody>
+            </table>
+        </div>
